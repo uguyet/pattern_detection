@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}sentation du programme}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Longueur du motif \IeC {\`a} extraire}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}La distance de Levenshtein}{3}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Le quorum}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}La sauvegarde dans un fichier}{3}{subsection.1.4}
+\contentsline {section}{\numberline {2}Les structures de donn\IeC {\'e}es utilis\IeC {\'e}es}{4}{section.2}
+\contentsline {section}{\numberline {3}Tests r\IeC {\'e}alis\IeC {\'e}s}{4}{section.3}
+\contentsline {section}{\numberline {4}Les limites du programme}{5}{section.4}
+\contentsline {section}{\numberline {5}Am\IeC {\'e}liorations \IeC {\`a} apporter au programme}{5}{section.5}
